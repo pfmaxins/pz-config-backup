@@ -1,0 +1,3 @@
+function SpawnRegions()
+	return {}
+end
