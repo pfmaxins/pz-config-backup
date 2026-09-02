@@ -985,7 +985,7 @@ SandboxVars = {
 		-- Rate at which Welding skill levels up. Min: 0.00 Max: 1000.00 Default: 1.00
 		MetalWelding = 1.0,
 		-- Rate at which Mechanics skill levels up. Min: 0.00 Max: 1000.00 Default: 1.00
-		Mechanics = 1.2,
+		Mechanics = 2.0,
 		-- Rate at which Tailoring skill levels up. Min: 0.00 Max: 1000.00 Default: 1.00
 		Tailoring = 1.0,
 		-- Rate at which Aiming skill levels up. Min: 0.00 Max: 1000.00 Default: 1.00
